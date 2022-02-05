@@ -1,6 +1,6 @@
 import * as React from "react";
 // import { useGet } from '../../utils/crudHooks';
-import SlideOver from "./slideOver";
+import SlideOver from "./slideOvers";
 
 const finnhub = require("finnhub");
 const api_key = finnhub.ApiClient.instance.authentications["api_key"];

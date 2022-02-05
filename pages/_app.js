@@ -1,7 +1,7 @@
 import "../styles/globals.css";
 import "../styles/globals.css";
 // import type { AppProps } from 'next/app';
-import Time from "../Components/CurrentTimeComponent/Time";
+import Time from "../Components/CurrentTimeComponent/time";
 import { Fragment, useState } from "react";
 import { Dialog, Transition } from "@headlessui/react";
 import {

@@ -1,6 +1,6 @@
-import SpotifyAlbums from "../components/Spotify/SpotifyAlbums";
-import { musisAccessUrl } from "../components/Spotify/SpotifyAlbums";
-import SpotifyPlayer from "../components/Spotify/SpotifyPlayer";
+import SpotifyAlbums from "../components/Spotify/spotifyAlbum";
+import { musisAccessUrl } from "../components/Spotify/spotifyAlbum";
+import SpotifyPlayer from "../components/Spotify/spotifyPlayers";
 
 function MusicPage() {
   return (
